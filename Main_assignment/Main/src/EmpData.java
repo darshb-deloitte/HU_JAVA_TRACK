@@ -280,10 +280,9 @@ public class EmpData
 
                 }
                     System.out.println("\nYou have chosen EXIT !! Saving Files and closing the tool.");
-//                    sc.close();
-//                    System.exit(0);
+;
                     return;
-//                    break;
+
 
                 default : System.out.println("\nEnter a correct choice from the List :");
                     break;
